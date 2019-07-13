@@ -9,6 +9,7 @@ git clone https://github.com/Ncohen10/UBNL-MissionControl
 ```
 
 ## Installation for linksat-example
+- An example GUI which simulates recieving spacecraft telemetry.
 
 ```
 cd linksat-example
