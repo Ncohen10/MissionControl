@@ -9,7 +9,7 @@ git clone https://github.com/Ncohen10/UBNL-MissionControl
 ```
 
 ## Installation for linksat-example
-- An example GUI which simulates recieving spacecraft telemetry.
+An example GUI which simulates recieving spacecraft telemetry.
 
 ```
 cd linksat-example
@@ -20,6 +20,7 @@ npm start
 * Go to http://localhost:8080
 
 ## Installation for openmct
+The actual GUI - still being worked on.
 
 ```
 cd openmct
