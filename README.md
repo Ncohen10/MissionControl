@@ -5,7 +5,7 @@ The UBNL Mission Control Software for the LinkSat Satellite. This uses [OpenMCT 
 ## Download This Repository
 
 ```
-git clone https://github.com/Ncohen10/UBNL-MissionControl
+git clone https://github.com/Ncohen10/missioncontrol
 ```
 
 ## Installation for linksat-example
