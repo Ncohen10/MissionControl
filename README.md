@@ -19,21 +19,5 @@ npm start
 * Thrusters can be simulated by hitting enter while in terminal
 * Go to http://localhost:8080
 
-## Installation for openmct
-The actual GUI - still being worked on.
-
-```
-cd openmct
-npm install
-npm start
-```
-* Go to http://localhost:8080
-
-
-
-
-
-
-
 
 ### For more info on OpenMCT - https://nasa.github.io/openmct/
