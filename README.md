@@ -1,6 +1,6 @@
 # MissionControl
 
-The UBNL Mission Control Software for the LinkSat Satellite. This uses [OpenMCT Framework](https://github.com/nasa/openmct) developed by The NASA Ames Research Center.
+The UBNL Mission Control Software for the LinkSat Satellite. This uses the [OpenMCT Framework](https://github.com/nasa/openmct) developed by The NASA Ames Research Center. Originally cloned from [their repository](https://github.com/nasa/openmct).
 
 ## Download This Repository
 
